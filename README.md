@@ -10,7 +10,7 @@ Turning data into meaningful insights using analytics and machine learning
 
 <p align="center">
 🔹 Passionate about data-driven decision making <br>
-🔹 Skilled in data analysis, visualization, and ML basics <br>
+🔹 Skilled in data analysis, visualization, and ML fundamentals <br>
 🔹 Actively building real-world data projects
 </p>
 
@@ -20,46 +20,64 @@ Turning data into meaningful insights using analytics and machine learning
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LalitK2811&theme=dracula" />
-</p>
-
----
-
-## 🛠️ Skills & Tools
+## 🚀 Technical Skill Overview
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30"/>
+
+<strong>Python</strong><br>
+<img src="https://img.shields.io/badge/Python-80%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<strong>SQL</strong><br>
+<img src="https://img.shields.io/badge/SQL-75%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<strong>Data Analysis (Pandas, NumPy)</strong><br>
+<img src="https://img.shields.io/badge/Data%20Analysis-75%25-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<strong>Data Visualization (Matplotlib, Seaborn)</strong><br>
+<img src="https://img.shields.io/badge/Data%20Visualization-70%25-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<strong>Machine Learning (Basics)</strong><br>
+<img src="https://img.shields.io/badge/Machine%20Learning-65%25-102230?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<strong>Power BI / Tableau</strong><br>
+<img src="https://img.shields.io/badge/BI%20Tools-65%25-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 </p>
 
 ---
 
-## 📂 Projects (Coming Soon)
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="32"/>
+</p>
+
+---
+
+## 📂 Projects (In Progress)
 
 - 🔹 **Exploratory Data Analysis (EDA)** – Python, Pandas, Matplotlib  
-- 🔹 **SQL Data Analysis Projects** – Joins, CTEs, Window Functions  
+- 🔹 **SQL Data Analysis** – Joins, CTEs, Window Functions  
 - 🔹 **Machine Learning Models** – Regression & Classification  
-- 🔹 **Dashboarding** – Power BI / Tableau (in progress)
+- 🔹 **Dashboards** – Power BI / Tableau  
 
-> 📌 *Currently building and uploading projects regularly.*
+> 📌 *Projects are actively being developed and uploaded.*
 
 ---
 
