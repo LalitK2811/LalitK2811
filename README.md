@@ -14,13 +14,16 @@ Turning data into meaningful insights using analytics and machine learning
 🔹 Actively building real-world data projects
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LalitK2811&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LalitK2811&show_icons=true&theme=dracula&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitK2811&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LalitK2811&theme=dracula" />
 </p>
 
 ---
